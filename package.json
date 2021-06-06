@@ -1,0 +1,24 @@
+{
+  "name": "config-redux",
+  "version": "0.0.1",
+  "description": "Redux initializes the configuration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jameswain/config-redux.git"
+  },
+  "keywords": [
+    "redux",
+    "config",
+    "react"
+  ],
+  "author": "jameswain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jameswain/config-redux/issues"
+  },
+  "homepage": "https://github.com/Jameswain/config-redux#readme"
+}
